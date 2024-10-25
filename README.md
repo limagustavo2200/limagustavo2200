@@ -3,11 +3,11 @@
 #### Aqui quem fala é Gustavo Lima de Carvalho, estudante de Ciência da Computação, com uma forte motivação para desenvolver tecnologias criativas que transformem ideias em realidade. Estou focado em finalizar a carreira Frontend e ansioso para seguir posteriormente com a carreira Backend, ambas pela escola de programação DevMedia. Este é o meu espaço no GitHub, onde compartilho minhas aventuras no desenvolvimento de aplicações web full-stack e soluções criativas para desafios do cotidiano. Cada projeto é uma chance de aprender algo novo e aplicar ideias inovadoras em código.
 
  
-# 🌐 Socials:
+# 🌐 Redes Sociais:
 #### Sinta-se à vontade para me adicionar e acompanhar minhas novidades!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-lima-de-carvalho-a575361a4/) 
 
-# 💻 Tech Stack:
+# 💻 Hard Skills:
 #### Aqui estão algumas das principais tecnologias que utilizo atualmente em meus projetos.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,11 +21,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=limagustavo2200&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=limagustavo2200&theme=neon&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contribuições:
 ![](https://github-contributor-stats.vercel.app/api?username=limagustavo2200&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
