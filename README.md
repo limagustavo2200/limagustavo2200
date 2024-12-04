@@ -1,6 +1,6 @@
 # Eii, seja bem-vindo ao meu GitHub! 👋
 
-#### Aqui quem fala é Gustavo Lima de Carvalho, estudante de Ciência da Computação, com uma forte motivação para desenvolver tecnologias criativas que transformem ideias em realidade. Estou focado em finalizar a carreira Frontend e ansioso para seguir posteriormente com a carreira Backend, ambas pela escola de programação DevMedia. Este é o meu espaço no GitHub, onde compartilho minhas aventuras no desenvolvimento de aplicações web full-stack e soluções criativas para desafios do cotidiano. Cada projeto é uma chance de aprender algo novo e aplicar ideias inovadoras em código.
+#### Aqui quem fala é Gustavo Lima de Carvalho, estudante de Ciência da Computação, com uma forte motivação para desenvolver tecnologias criativas que transformem ideias em realidade. Estou focado em finalizar a formação React,js e Java com Spring Boot na RocketSeat. Este é o meu espaço no GitHub, onde compartilho minhas aventuras no desenvolvimento de aplicações web full-stack e soluções criativas para desafios do cotidiano. Cada projeto é uma chance de aprender algo novo e aplicar ideias inovadoras em código.
 
  
 # 🌐 Redes Sociais:
