@@ -1,19 +1,21 @@
 # Eii, seja bem-vindo ao meu GitHub! 👋
 
-#### Aqui quem fala é Gustavo Lima de Carvalho, estudante de Ciência da Computação, com uma forte motivação para desenvolver tecnologias criativas que transformem ideias em realidade. Estou focado em finalizar a formação React,js e Java com Spring Boot na RocketSeat. Este é o meu espaço no GitHub, onde compartilho minhas aventuras no desenvolvimento de aplicações web full-stack e soluções criativas para desafios do cotidiano. Cada projeto é uma chance de aprender algo novo e aplicar ideias inovadoras em código.
+#### Aqui quem fala é Gustavo Lima de Carvalho, estudante de Ciência da Computação, com uma forte motivação para desenvolver tecnologias criativas que transformem ideias em realidade. Estou focado em finalizar a formação React.js e Java com Spring Boot na RocketSeat. Este é o meu espaço no GitHub, onde compartilho minhas aventuras no desenvolvimento de aplicações web full-stack e soluções criativas para desafios do cotidiano. Cada projeto é uma chance de aprender algo novo e aplicar ideias inovadoras em código.
 
- 
 # 🌐 Redes Sociais:
 #### Sinta-se à vontade para me adicionar e acompanhar minhas novidades!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-lima-de-carvalho-a575361a4/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-de-carvalho-a575361a4/) 
 
 # 💻 Hard Skills:
 #### Aqui estão algumas das principais tecnologias que utilizo atualmente em meus projetos.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
